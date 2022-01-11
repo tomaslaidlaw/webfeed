@@ -79,7 +79,8 @@
                 <ul class="cbp_tmtimeline">
 
 <?php
-  
+
+                    //Actualizo el feed  
                     function getContent() {
                         $file = "./feed-cache.txt";
                         $current_time = time();
@@ -94,6 +95,8 @@
                             return $content;
                         }
                     }
+
+                    //Armo los feeds-rss
                     function getFreshContent() {
                         $html = "";
                         $newsSource = array(
@@ -165,6 +168,8 @@
                                 if (date("Y-m")!=date("Y-m", strtotime($item->pubDate))){
                                     break;
                                 }
+
+    //Armo los datos                               
     $html .= '
     <li><time class="cbp_tmtime" ><span> ' . htmlspecialchars($item->source ) . ' </span>
             <span>' . date("H:i", strtotime($item->pubDate)) . '</span></time> <div class="cbp_tmicon cbp_tmicon-phone"></div>
