@@ -176,7 +176,7 @@
                             <div class="cbp_tmlabel">
                                 <a href="'.htmlspecialchars($item->link).'" target=_new>'.htmlspecialchars($item->title).'</a> <br><p>'
                                 . date("Y-m-d", strtotime($item->pubDate)) .
-                            ' <a href="http://twitter.com/share?url='.htmlspecialchars($item->link).'&text='.htmlspecialchars($item->title).'&via=tomaslaidlaw" target="_blank" > <i class="fa fa-twitter"></i> </a> </p> </div>
+                            ' <a href="http://twitter.com/share?url='.htmlspecialchars($item->link).'&text='.htmlspecialchars($item->title).'&via=tomaslaidlaw" target="_blank" > Tweet  </a> </p> </div>
                     </li>';
                             }
 
