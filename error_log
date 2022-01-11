@@ -1,16 +1,1 @@
-[09-Nov-2017 14:54:16 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '<' in /home/themewe/public_html/new/blog2/index.php on line 95
-[09-Nov-2017 14:54:43 America/Argentina/Buenos_Aires] PHP Warning:  filemtime(): stat failed for ./feed-cache.txt in /home/themewe/public_html/new/blog2/index.php on line 35
-[09-Nov-2017 15:49:44 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '.' in /home/themewe/public_html/new/blog2/index.php on line 86
-[09-Nov-2017 15:49:45 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '.' in /home/themewe/public_html/new/blog2/index.php on line 86
-[09-Nov-2017 22:29:48 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected 'Josefin' (T_STRING) in /home/themewe/public_html/blog/index.php on line 104
-[10-Nov-2017 14:45:38 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/themewe/public_html/index.php on line 66
-[10-Nov-2017 14:45:46 America/Argentina/Buenos_Aires] PHP Warning:  simplexml_load_file(): https://feedly.com/i/welcome/feed/http://feeds.feedburner.com/Omicrono:1: parser error : StartTag: invalid element name in /home/themewe/public_html/index.php on line 90
-[10-Nov-2017 14:45:46 America/Argentina/Buenos_Aires] PHP Warning:  simplexml_load_file(): &lt;!doctype html&gt; in /home/themewe/public_html/index.php on line 90
-[10-Nov-2017 14:45:46 America/Argentina/Buenos_Aires] PHP Warning:  simplexml_load_file():  ^ in /home/themewe/public_html/index.php on line 90
-[10-Nov-2017 14:45:46 America/Argentina/Buenos_Aires] PHP Warning:  simplexml_load_file(): https://feedly.com/i/welcome/feed/http://feeds.feedburner.com/Omicrono:1: parser error : Extra content at the end of the document in /home/themewe/public_html/index.php on line 90
-[10-Nov-2017 14:45:46 America/Argentina/Buenos_Aires] PHP Warning:  simplexml_load_file(): &lt;!doctype html&gt; in /home/themewe/public_html/index.php on line 90
-[10-Nov-2017 14:45:46 America/Argentina/Buenos_Aires] PHP Warning:  simplexml_load_file():  ^ in /home/themewe/public_html/index.php on line 90
-[10-Nov-2017 14:45:46 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/themewe/public_html/index.php on line 93
-[11-Nov-2017 00:07:12 America/Argentina/Buenos_Aires] PHP Warning:  filemtime(): stat failed for ./feed-cache.txt in /home/themewe/public_html/index.php on line 55
-[11-Nov-2017 00:07:13 America/Argentina/Buenos_Aires] PHP Warning:  filemtime(): stat failed for ./feed-cache.txt in /home/themewe/public_html/index.php on line 55
-[14-Nov-2017 16:44:33 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '"' (T_CONSTANT_ENCAPSED_STRING) in /home/themewe/public_html/index.php on line 129
+
